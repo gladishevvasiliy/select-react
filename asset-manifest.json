@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/select-react/static/css/main.1237c5e2.css",
+    "main.js": "/select-react/static/js/main.0d71638b.js",
+    "index.html": "/select-react/index.html",
+    "main.1237c5e2.css.map": "/select-react/static/css/main.1237c5e2.css.map",
+    "main.0d71638b.js.map": "/select-react/static/js/main.0d71638b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1237c5e2.css",
+    "static/js/main.0d71638b.js"
+  ]
+}
